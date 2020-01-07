@@ -11,6 +11,8 @@ libpinyin词库
 
 # 工具下载
 
-/publish/  https://github.com/studyzy/imewlconverter/releases
-/sougou/  https://pinyin.sogou.com/dict/
-/aspnetcore/ https://dotnet.microsoft.com/download/dotnet-core/2.2
+publish/  https://github.com/studyzy/imewlconverter/releases
+
+sougou/  https://pinyin.sogou.com/dict/
+
+aspnetcore/ https://dotnet.microsoft.com/download/dotnet-core/2.2
